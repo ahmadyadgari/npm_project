@@ -6,4 +6,4 @@ const uniqueNums = lodash.uniq(array);
 
 console.log(chalk.green(uniqueNums));
 
-console.log(chalk.blue('Hello, Chalk!'));
+console.log(chalk.blue('Hello, with Chalk!'));
